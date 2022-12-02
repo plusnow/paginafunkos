@@ -1,0 +1,2 @@
+# paginafunkos
+para funkos
